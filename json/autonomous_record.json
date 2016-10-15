@@ -1,0 +1,5 @@
+{
+  "recordreplayFilesDir" : "/sdcard/FIRST/autonomous",
+  "recordFileName" : "startToBeacon1.csv",
+  "robotConfigFilePath" : "/sdcard/FIRST/robot_4motor_4wd.json"
+}

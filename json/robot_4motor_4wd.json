@@ -15,6 +15,6 @@
         { "location": "RearLeft", "coordinates" : [3.0, 15.0], "DriveWheel": true, "diameter": 4.0, "model": "tetrix" },
         { "location": "RearRight", "coordinates" : [15.0, 15.0], "DriveWheel": true, "diameter": 4.0, "model": "tetrix" }
       ]
+    }
   }
-}
 }
