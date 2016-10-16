@@ -3,10 +3,10 @@
     "Drive System": {
       "Name": "4WD",
       "Motors": [
-        { "motorID": "fMotorL", "motorLocation": "Front Left", "motorType": "Neverest40", "motorMaxRPM": 1230},
-        { "motorID": "fMotorR", "motorLocation": "Front Right", "motorType": "Neverest40", "motorMaxRPM": 1230},
-        { "motorID": "rMotorL", "motorLocation": "Rear Left", "motorType": "Neverest40", "motorMaxRPM": 1230},
-        { "motorID": "rMotorR", "motorLocation": "Rear Right", "motorType": "Neverest40", "motorMaxRPM": 1230}
+        { "motorID": "fMotorL", "motorLocation": "Front Left", "motorType": "neverest40"},
+        { "motorID": "fMotorR", "motorLocation": "Front Right", "motorType": "neverest40"},
+        { "motorID": "rMotorL", "motorLocation": "Rear Left", "motorType": "neverest40"},
+        { "motorID": "rMotorR", "motorLocation": "Rear Right", "motorType": "neverest40"}
       ],
       "__wheels_comment": "coordinates specify the x,y position assuming front-left corner as origin",
       "Wheels": [
