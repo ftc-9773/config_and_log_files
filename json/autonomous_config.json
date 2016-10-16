@@ -1,5 +1,10 @@
 {
-  "recordreplayFilesDir" : "/sdcard/FIRST/autonomous/blue",
+  "recordreplayFilesDir" : "/sdcard/FIRST/autonomous/red",
   "robotConfigFilePath" : "/sdcard/FIRST/robot_4motor_4wd.json",
-  "replayFileName" : "/sdcard/FIRST/autonomous/red/StartToBeacon1.csv"
+  "replayFileName" : "/sdcard/FIRST/autonomous/red/startToBeacon1.csv",
+  "startingDelay" : 10,
+  "autonomousActions" : [
+    {"type" : "Replay", "replayfile" : "StartToBeacon1.csv"},
+    {"type" : "Programmed", "method" : "searchForWhiteLine"}
+  ]
 }
